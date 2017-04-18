@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.has_rdoc = false
 
-  s.add_dependency 'spree_core', '~> 2.4.6'
+  #s.add_dependency 'spree_core', '~> 2.4.6'
   s.add_dependency 'haml', '~> 4.0.6'
 
   s.add_development_dependency 'capybara', '~> 2.4'
